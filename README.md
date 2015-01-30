@@ -56,6 +56,10 @@ Just copy the project directory on your server and configure it.
 
 ## Change log
 
+- **0.5.8**
+
+    - Force all http Netatmo API URL to https
+
 - **0.5.7**
 
     - Add `text_wo_rainsensor` and `r` parameters in `raw.php`
